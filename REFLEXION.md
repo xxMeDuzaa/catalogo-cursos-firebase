@@ -6,7 +6,7 @@
 
 | # | Entregable | Link |
 |---|---|---|
-| 1 | Repo | https://github.com/xxMeDuzaa/TP9_pa |
+| 1 | Repo | https://github.com/xxMeDuzaa/catalogo-cursos-firebase |
 | 2 | Producción | https://practica-ci-cd.web.app |
 | 3 | PR mergeado con comentario del bot | https://github.com/xxMeDuzaa/practica-firebase-cicd/pull/2 |
 
@@ -148,9 +148,9 @@ Después del rollback en la consola, `live` sirve la versión anterior pero `mai
 
 | # | Entregable | Estado |
 |---|---|---|
-| 1 | `dataconnect/` completo (L1–L4 + L5) | https://github.com/xxMeDuzaa/TP9_pa/tree/main/dataconnect |
+| 1 | `dataconnect/` completo (L1–L4 + L5) | https://github.com/xxMeDuzaa/catalogo-cursos-firebase/tree/main/dataconnect |
 | 2 | Salida de `npm run atacar` antes y después | Abajo |
-| 3 | PR mergeado con el cambio de CSP (L6) | https://github.com/xxMeDuzaa/TP9_pa/pull/1 · preview: https://practica-ci-cd--pr1-feat-sql-connect-yhslkigz.web.app/ |
+| 3 | PR mergeado con el cambio de CSP (L6) | https://github.com/xxMeDuzaa/catalogo-cursos-firebase/pull/1 · preview: https://practica-ci-cd--pr1-feat-sql-connect-yhslkigz.web.app/ |
 | 4 | Producción con inscripción (L7) | https://practica-ci-cd.web.app/ |
 | 5 | Reflexión | Abajo |
 
@@ -269,10 +269,10 @@ No usé `https://*.googleapis.com` porque ese comodín abre cientos de APIs de G
 
 | # | Entregable | Estado |
 |---|---|---|
-| 1 | `lib/resenas.ts`, `ResenasCurso.tsx`, `firestore.rules`, `firestore.indexes.json` y `tests/` | https://github.com/xxMeDuzaa/TP9_pa/tree/main |
+| 1 | `lib/resenas.ts`, `ResenasCurso.tsx`, `firestore.rules`, `firestore.indexes.json` y `tests/` | https://github.com/xxMeDuzaa/catalogo-cursos-firebase/tree/main |
 | 2 | Salida de `npm run test:reglas` y prueba de "hacerlo fallar" | Abajo |
 | 3 | Tiempo real entre dos navegadores | Abajo |
-| 4 | PR mergeado con reglas, índice y CSP | https://github.com/xxMeDuzaa/TP9_pa/pull/4 · preview: https://practica-ci-cd--pr4-feat-firestore-xhy13ia5.web.app/ · producción: https://practica-ci-cd.web.app/ |
+| 4 | PR mergeado con reglas, índice y CSP | https://github.com/xxMeDuzaa/catalogo-cursos-firebase/pull/4 · preview: https://practica-ci-cd--pr4-feat-firestore-xhy13ia5.web.app/ · producción: https://practica-ci-cd.web.app/ |
 | 5 | Reflexión | Abajo |
 
 ### Tests de reglas · `npm run test:reglas`
